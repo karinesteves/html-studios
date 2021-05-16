@@ -1,0 +1,33 @@
+body {
+    background: gray;
+    font-family: cursive;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.photo {
+    border: 10px solid white;
+    border: 0%;
+}
+
+.post_image {
+    margin-bottom: 50px;
+    width: 100%; 
+    border: 5px solid white;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    text-align:justify;
+}
+
+
+.post {
+    background: orange;
+    padding: 15px;
+    border: 8px solid white;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
